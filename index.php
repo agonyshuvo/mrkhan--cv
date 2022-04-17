@@ -70,7 +70,15 @@
                 <!-- About Start -->
                 <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="title pb-3 mb-5">About Me</h1>
-                    <p>Diam rebum sea stet rebum ea. Et kasd amet et accusam elitr voluptua. Tempor dolore sit et accusam ipsum erat duo. Gubergren et takimata dolor duo amet et sanctus elitr lorem. Ipsum amet duo rebum dolor labore. No diam duo lorem elitr dolor takimata elitr no. Magna et gubergren duo ipsum sed, amet ea voluptua dolores voluptua dolor ipsum et. Sit takimata erat consetetur invidunt lorem consetetur. Lorem magna diam vero nonumy. Aliquyam diam voluptua magna et magna nonumy. Accusam rebum clita et sit vero lorem, voluptua amet sit eos no et labore vero, et consetetur justo et et sit aliquyam labore, sit erat lorem justo dolores kasd est sit. Dolor et accusam ea et dolor sit.</p>
+                    <p>All people in the world are selfish but no one is willing to accept this realistic truth. I am a selfish person . I like to help other people a lot .I have no expectations from people.If you expect, you will suffer. <br> <br>
+                        <b> If the final destination is death, think a little about that aspect ! </b><br><br>
+                        I am shuvo . I am from a middle class family .I have nothing to say except my family.I respect my father more than I fear him .He has nurtured us like a prince .I can say that I am not afraid of my mother, she is like a friend.
+
+                        <br> <br>
+                        (পৃথিবীর সব মানুষই স্বার্থপর কিন্তু এই বাস্তবধর্মী সত্যি কথা কেউ মানতে রাজি নয় । আমি একটা স্বার্থপর মানুষ । অন্য মানুষের উপকার করতে আমার অনেক বেশি ভালো লাগে । মানুষের কাছ থেকে আমার কোনো প্রত্যাশা নেই । যদি প্রত্যাশা করেন তাহলে আপনি কষ্ট পাবেন । <br> <br> <b>
+                            শেষ গন্তব্য যদি হয় মৃত্যু, ওই দিকটা নিয়ে একটু চিন্তা করেন ! </b><br><br>
+                        আমি শুভ । আমি মধ্যবিত্ত পরিবারের সন্তান । আমার পরিবার ছাড়া বলার মতো কিছু নেই । আমি আমার বাবাকে যতটা ভয় পাই তার থেকে বেশি সম্মান করি । তিনি আমাদের রাজপুত্রের মতো লালন-পালন করেছেন । আমি বলতে পারি যে আমি আমার মাকে ভয় পাই না, তিনি একজন বন্ধুর মতো।)
+                    </p>
                     <div class="row mb-4">
                         <div class="col-sm-6 py-1">
                             <span class="fw-medium text-primary">Name :</span> Shuvo Khan
@@ -406,7 +414,7 @@
                 <!-- Subscribe End -->
 
                 <!-- Services Start -->
-                <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
+                <!-- <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="title pb-3 mb-5">Services</h1>
                     <div class="row g-4">
                         <div class="col-md-6">
@@ -438,13 +446,13 @@
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> -->
                 <!-- Services End -->
 
 
 
                 <!-- Testimonial Start -->
-                <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
+                <!-- <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="title pb-3 mb-5">Testimonial</h1>
                     <div class="owl-carousel testimonial-carousel">
                         <div class="text-left">
@@ -481,11 +489,11 @@
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> -->
                 <!-- Testimonial End -->
 
                 <!-- Contact Start -->
-                <section class="py-5 wow fadeInUp" data-wow-delay="0.1s" id="contact">
+                <!-- <section class="py-5 wow fadeInUp" data-wow-delay="0.1s" id="contact">
                     <h1 class="title pb-3 mb-5">Contact Me</h1>
                     <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a></p>
                     <form>
@@ -519,7 +527,7 @@
                             </div>
                         </div>
                     </form>
-                </section>
+                </section> -->
                 <!-- Contact End -->
 
                 <!-- Footer Start -->
